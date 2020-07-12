@@ -163,7 +163,7 @@ form input, textarea, button {
 
 .wrapper {
     display: grid;
-grid-gap: 10px;
+    grid-gap: 10px;
     grid-template-columns: repeat(5, [col] 15% ) ;
     grid-template-rows: repeat(3, [row] auto  );
     background-color: white;
