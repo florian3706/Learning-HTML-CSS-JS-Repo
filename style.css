@@ -154,7 +154,7 @@ form input, textarea, button {
 
 .nav-wrapper {
     background: rgb(21, 21, 155);
-    text: white;
+    text-decoration-color: white;
 }
 
 .btn {
